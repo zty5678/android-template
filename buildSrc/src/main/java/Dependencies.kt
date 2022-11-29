@@ -1,5 +1,5 @@
 object Dependencies {
-
+    const val USE_COMPOSE = false;
     // Kotlin
     const val kotlinStdLib = "org.jetbrains.kotlin:kotlin-stdlib:${Versions.kotlin}"
 

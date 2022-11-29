@@ -2,7 +2,7 @@ import java.io.File
 import java.util.Properties
 
 object AppConfig {
-    const val applicationId = "com.molidev8.template"
+    const val applicationId = "com.sc.app.test_template"
     const val compileSdk = 33
     const val minSdk = 26
     const val targetSdk = 33
